@@ -1,0 +1,6 @@
+{
+  "name": "MikroEasy",
+  "description": "Open-source MikroTik Hotspot Management Android App for RouterOS v6 and v7 devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
